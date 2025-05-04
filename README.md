@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Pankraz76/Pankraz76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m looking to collaborate on:
+  - https://github.com/checkstyle/checkstyle/pulls/pankraz76
+    - https://github.com/checkstyle/checkstyle/pull/16894
+    - https://github.com/checkstyle/checkstyle/pull/16574
+    - https://github.com/checkstyle/checkstyle/pull/16872
+    - https://github.com/checkstyle/checkstyle/pull/17012
+  - https://github.com/pmd/pmd/pulls/pankraz76
+  - https://github.com/spring-projects/spring-framework/pulls/Pankraz76
+  - https://github.com/apache/maven/pulls/Pankraz76
+    - https://github.com/apache/maven/pull/2281
+  - https://www.tierheim-karlsruhe.de/
