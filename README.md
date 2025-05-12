@@ -2,6 +2,10 @@
 
 - 🔭 I'm looking to collaborate on:
 
+- https://en.wikipedia.org/wiki/SOLID
+- https://refactoring.guru/smells/feature-envy
+- https://adabeat.com/fp/immutability-in-functional-programming/
+
   ### Apache Maven
   - [All Maven PRs](https://github.com/apache/maven/pulls/Pankraz76)
     - [#3003: Fix unused stream in DefaultPluginXmlFactory#write](https://github.com/apache/maven/pull/3003)
