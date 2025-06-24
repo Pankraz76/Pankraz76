@@ -19,7 +19,7 @@
 [Spring Framework PRs](https://github.com/spring-projects/spring-framework/pulls?q=is%3Apr+author%3APankraz76+is%3Aclosed+review%3Aapproved)  
 
 #### Spotless  
-[Spotless Issue Comment](https://github.com/diffplug/spotless/issues/649#issuecomment-2999345805)  
+[Spotless PRs](https://github.com/diffplug/spotless/pulls?q=is%3Apr+author%3APankraz76+is%3Aclosed+review%3Aapproved)  
 
 ---
 
