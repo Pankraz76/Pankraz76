@@ -1,31 +1,43 @@
-## Hi there 👋  
+## Hi there 👋
+
+Senior Software Developer from Karlsruhe with 10+ years of full-stack experience — Java backend, Angular frontend, and a soft spot for clean architecture and static code analysis.
 
 ---
 
-### Core Expertise 💻  
-`Java` `Kotlin` `Spring Boot` `Quarkus` `CAP` `Microservices` `Hexagonal Architecture` `TDD/BDD`  
+### Core Expertise 💻
+`Java` `Kotlin` `Spring Boot` `Spring Reactive` `Quarkus` `Jakarta EE` `JPA/Hibernate` `Microservices` `REST`
 
-### Cloud & DevOps ☁️  
-`Kubernetes` `Docker` `Helm` `AWS (RDS/S3/EC2/Cognito)` `Azure DevOps` `GitLab CI/CD` `Grafana` `Graylog`  
+### Architecture & Practices 🏛️
+`Hexagonal Architecture` `Domain-Driven Design` `Clean Architecture` `Clean Code` `SOLID` `TDD/BDD` `Scrum` `Kanban`
 
-### Frontend 🌐  
-`JavaScript` `TypeScript` `OpenUI5` `React` `HTML/CSS` `Polymer` `WebComponents` `Thymeleaf`  
+### Frontend 🌐
+`TypeScript` `JavaScript` `Angular` `React` `Vue.js` `OpenUI5` `HTML/CSS` `Web Components` `Thymeleaf`
 
-### Databases 🗃️  
-`PostgreSQL` `SAP HANA` `MongoDB` `CouchDB` `SQL` `jOOQ`  
+### Code Quality & Static Analysis 🔍
+`Checkstyle` `Spotless` `OpenRewrite` `Error Prone` `PMD` `SpotBugs` `SonarQube` `ktlint`
 
-### Testing 🧪  
-`Mockito` `WireMock` `REST-assured` `Serenity-BDD` `PIT Mutation Testing`  
+### Testing 🧪
+`JUnit 5` `Mockito` `WireMock` `REST-assured` `Serenity BDD` `Selenium` `PIT Mutation Testing` `Contract Testing`
 
-### SAP Ecosystem 🌿  
-`CAP (Cloud Application Programming Model)` `OpenUI5` `SAP Hybris`  
+### Cloud & DevOps ☁️
+`Kubernetes` `Docker` `Helm` `AWS` `Azure DevOps` `GitLab CI/CD` `Jenkins` `Grafana` `Graylog` `Instana`
 
-### Tools & Utilities 🛠️  
-`Lombok` `Immutables` `Maven` `Gradle` `Jenkins` `SonarQube` `ktlint`  
+### Databases 🗃️
+`PostgreSQL` `SAP HANA` `MongoDB` `CouchDB` `Solr` `SQL` `jOOQ`
+
+### SAP Ecosystem 🌿
+`CAP (Cloud Application Programming Model)` `OpenUI5` `SAP Hybris`
+
+### Also 🛠️
+`C#/.NET` `Scala` `Maven` `Gradle` `Lombok` `Immutables` `Camunda`
 
 ---
 
-### Volunteering 
-[Tierheim Karlsruhe](https://www.tierheim-karlsruhe.de)  
+### Open Source 🤝
+- **[Checkstyle](https://github.com/checkstyle/checkstyle)** — 45+ merged PRs: OpenRewrite in the build, Spotless config, extended PMD rules, CI maintenance
+- **[Spotless](https://github.com/diffplug/spotless)** — 30+ merged PRs: OpenRewrite & Error Prone integration, bugfixes in import handling and Groovy formatting
 
 ---
+
+### Volunteering 🐾
+[Tierheim Karlsruhe](https://www.tierheim-karlsruhe.de)
