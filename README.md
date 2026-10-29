@@ -6,7 +6,7 @@
 
 Senior Software Developer from Karlsruhe with 10+ years of full-stack experience — Java backend, Angular frontend, and a soft spot for clean architecture and static code analysis.
 
-Worked in product teams and IT consulting, among others at **SAP** and **DB Fernverkehr** (bahn.de, DB Navigator) — there as architecture champion in a landscape of ~50 microservices and 20 teams, driving Hexagonal Architecture, DDD and event-driven design.
+Worked in product teams and IT consulting, among others at **SAP** and **DB Fernverkehr** (bahn.de, DB Navigator) — in a landscape of ~50 microservices and 20 teams, driving Hexagonal Architecture, DDD and event-driven design.
 
 ---
 
