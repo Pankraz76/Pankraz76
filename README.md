@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/germany/Pankraz76.svg)](https://user-badge.committers.top/germany/Pankraz76)
-
 [![Metrics](https://github.com/Pankraz76/Pankraz76/blob/main/github-metrics.svg)](https://github.com/Pankraz76/Pankraz76/blob/main/github-metrics.svg)
 
 ## Hi there 👋
