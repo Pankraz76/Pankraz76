@@ -39,9 +39,9 @@ Worked in product teams and IT consulting, among others at **SAP** and **DB Fern
 ---
 
 ### Open Source 🤝
+- **[Ghidra (NSA)](https://github.com/NationalSecurityAgency/ghidra)** — submitted fixes: M16C/60 `STCTX` opcode, assembler performance (AArch64 patch instruction ~1.7 s → 2.3 ms)
 - **[Spring Framework](https://github.com/spring-projects/spring-framework)** — contributions in releases 6.2.4–7.0.2; submitted bugfixes for `@Lazy` + CGLIB AOP in AOT mode, a `getBeanNamesForType` deadlock, negated `target()` pointcuts and `CronExpression` `nW`
 - **[Apache Kafka](https://github.com/apache/kafka)** — submitted fix for KAFKA-20734: transaction markers dropped for partitions with offline leaders
-- **[Ghidra (NSA)](https://github.com/NationalSecurityAgency/ghidra)** — submitted fixes: M16C/60 `STCTX` opcode, assembler performance (AArch64 patch instruction ~1.7 s → 2.3 ms)
 - **[Checkstyle](https://github.com/checkstyle/checkstyle)** — 48 merged PRs: OpenRewrite in the build, Spotless config, extended PMD rules, `AGENTS.md`, CI maintenance
 - **[Spotless](https://github.com/diffplug/spotless)** — 30+ merged PRs: OpenRewrite & Error Prone integration, bugfixes in import handling and Groovy formatting
 - **[PMD](https://github.com/pmd/pmd)** — 5 merged PRs, including two new Java rules
